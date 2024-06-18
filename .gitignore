@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Service directories
+data/datasets/
+
+# Service files
+*.mp3
+*.pt
+*.npy
+*.csv
+*.txt
